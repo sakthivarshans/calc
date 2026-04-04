@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 How to Run NeuralOps
+## How to Run ORVION
 
 Follow these steps to get the full platform running with all AI features:
 
