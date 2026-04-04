@@ -1,4 +1,4 @@
-# NeuralOps — AI DevOps / SRE Intelligence Platform
+# Orvion — AI DevOps / SRE Intelligence Platform
 
 > **Autonomous AI Site Reliability Engineer** — monitors AWS, Azure, and GCP, detects anomalies with ML, performs Root Cause Analysis via Gemini 1.5 Flash, executes safe automated remediation, and self-learns from every incident.
 
